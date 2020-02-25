@@ -523,7 +523,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           background-position: center top;
           background-repeat: no-repeat;
           background-attachment: fixed;
-          background-image: url(https://wx1.sinaimg.cn/large/007SnF5Uly1gc8jqpee6oj31840u04qy.jpg);
+          background-image: url(https://wx3.sinaimg.cn/large/007SnF5Uly1gc8k32s2edj30u0190e81.jpg);
         }
         @media (min-aspect-ratio: 2400/1850) {
           .wrap {
