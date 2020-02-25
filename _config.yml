@@ -527,7 +527,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         }
         @media (min-aspect-ratio: 2400/1850) {
           .wrap {
-            background-image: url(https://cdn.jsdelivr.net/gh/wu-kan/jekyll-theme-WuK/assets/image/71932901_p0.webp);
+            background-image: url(https://wx1.sinaimg.cn/large/007SnF5Uly1gc8hf0asdhj31hc0u0hdy.jpg);
           }
         }
         .masthead {
