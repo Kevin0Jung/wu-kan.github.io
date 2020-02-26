@@ -1,10 +1,10 @@
 title: 光锥之外 # 站点标题
 tagline: lovetendia
 description: | # 头像背后的信息，<br/>代表换行
-  博观而约取厚积而勃发<br/>
+  博观而约取<br/>
+  厚积而勃发<br/>
   好科学，喜历史<br/>
   读政治，看文学<br/>
-  何乐而不为?<br/>
   <a href="mailto:eurysma@gmail.com" title="eurysma@gmail.com">
     <i class="fas fa-envelope"></i>
   </a>
@@ -15,10 +15,10 @@ description: | # 头像背后的信息，<br/>代表换行
     <i class="fas fa-chart-bar"></i>
   </a>
   <a href=="https://weibo.com/zx66545416" title="weibo">
-    <i class="fas fa-smile"></i>
+    <i class="fab fa-weibo"></i>
   </a>
   <a href="https://space.bilibili.com/17123768" title="bilibili">
-    <i class="fab fa-zhihu"></i>
+    <i class="fas fa-tv"></i>
   </a>
   <iframe
    src="//music.163.com/outchain/player?type=2&id=478507889&auto=0&height=32"
@@ -29,7 +29,7 @@ description: | # 头像背后的信息，<br/>代表换行
     marginwidth="0"
     marginheight="0"
   ></iframe>
-url: https://kevin0jung.github.io/zx.github.io/ # https://wu-kan.github.io
+url: https://kevin0jung.github.io/ # https://wu-kan.github.io
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
 plugins: # https://jekyllrb.com/docs/plugins/
@@ -171,7 +171,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       disable: false
       avatar: # 侧边栏显示的头像
         enable: true
-        img: https://s.gravatar.com/avatar/9a1af9901980ca0f8bda4a86cabdf155?s=300 # 头像的地址
+        img: https://s.gravatar.com/avatar/9a1af9901980ca0f8bda4a86cabdf155?s=320 # 头像的地址
       nav:
         - title: '<i class="fas fa-home fa-fw"></i> 首页'
           href: /
