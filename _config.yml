@@ -117,8 +117,8 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         onload='
           new Valine({
             "el": ".v",
-            "appId": "9hABRddSuEkTgqLrt1VSK5B1-gzGzoHsz",
-            "appKey": "NJ7RwmgrxsF7KDzlqU7YewlL",
+            "appId": "H6caCCigPg8eoDCqq31IeNXD-gzGzoHsz",
+            "appKey": "YtND0i6B2fAu66Podpd5W2nc",
             "notify": "true",
             "verify": "true",
             "avatar": "identicon",
