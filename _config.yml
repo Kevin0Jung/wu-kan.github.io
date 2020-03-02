@@ -1,5 +1,4 @@
 title: 光锥之外 # 站点标题
-tagline: lovetendia
 description: | # 头像背后的信息，<br/>代表换行
   博观而约取<br/>
   厚积而勃发<br/>
@@ -29,7 +28,7 @@ description: | # 头像背后的信息，<br/>代表换行
     marginwidth="0"
     marginheight="0"
   ></iframe>
-url: https://kevin0jung.github.io # https://wu-kan.github.io
+url: https://Kevin0Jung.github.io # https://wu-kan.github.io
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
 # githubpage上支持的插件见https://pages.github.com/versions/
