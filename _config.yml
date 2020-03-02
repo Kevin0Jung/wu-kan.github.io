@@ -1,4 +1,5 @@
 title: 光锥之外 # 站点标题
+tagline: lovetendia
 description: | # 头像背后的信息，<br/>代表换行
   博观而约取<br/>
   厚积而勃发<br/>
@@ -84,8 +85,6 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           ]
           });
         "></script>
-
-
   merger: #打赏页
     append_to_head:
       - | # 支持的变量见<https://merger.justhx.com/cn/docs/configure>
@@ -460,7 +459,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           icon"
           href="https://s.gravatar.com/avatar/9a1af9901980ca0f8bda4a86cabdf155?s=32"
         />
-       - | # 来自lanyon的页面样式
+      - | # 来自lanyon的页面样式
         <link
           rel="stylesheet"
           href="https://cdn.jsdelivr.net/combine/gh/poole/lanyon@ac85a3115c094b3e6cb92cc41771e98b443f6c5d/public/css/poole.min.css,gh/poole/lanyon@ac85a3115c094b3e6cb92cc41771e98b443f6c5d/public/css/lanyon.min.css"
